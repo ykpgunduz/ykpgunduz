@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Yakup</h1>
 <h3 align="center">I am improving myself in the field of software</h3>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakupgunduz)
 
 # 💻 Tech Stack:
