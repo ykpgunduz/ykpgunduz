@@ -43,10 +43,3 @@
 </div>
 
 ###
-
-<h2 align="center">🐍 Snake Game</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ykpgunduz/ykpgunduz/output/snake.svg" alt="Snake animation" />
-</p>
-
-###
