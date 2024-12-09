@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="center">⚡ My Tech Stack</h2>
+<h1 align="center">⚡ My Tech Stack</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
   <img width="25" />
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h1 align="center">🌐 Connect with Me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/yakupgunduz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
