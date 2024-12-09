@@ -2,6 +2,7 @@
 <h3 align="center">I am improving myself in the field of software</h3>
 
 # 🌐 Socials:
+[![WebSite](https://harpysocial.com/img/harpysocial-favicon.png)](https://harpysocial.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakupgunduz)
 
 # 💻 Tech Stack:
