@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ykpgunduz&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=10&date_format=j/n%5B/Y%5D" height="160" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ykpgunduz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="160" alt="languages graph"/>
+  <img src="https://streak-stats.demolab.com?user=yakup-gunduz&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=10&date_format=j/n%5B/Y%5D" height="160" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakup-gunduz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="160" alt="languages graph"/>
 </div>
 
 ###
@@ -40,7 +40,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ykpgunduz/ykpgunduz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ykpgunduz/ykpgunduz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ykpgunduz/ykpgunduz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yakup-gunduz/yakup-gunduz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yakup-gunduz/yakup-gunduz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yakup-gunduz/yakup-gunduz/output/github-snake.svg" />
 </picture>
