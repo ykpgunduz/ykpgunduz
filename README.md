@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is Yakup and I'm a Software Developer 🚀</h1>
+<h1 align="center">Hi! My name is Yakup and I'm a Software Developer</h1>
 
 <p align="center">
   I specialize in crafting web applications, building automation systems, and delivering scalable solutions using cutting-edge technologies. Passionate about learning and sharing knowledge with the community!
